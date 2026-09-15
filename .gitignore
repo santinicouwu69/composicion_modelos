@@ -1,0 +1,25 @@
+# Compiled Java output
+bin/
+out/
+target/
+*.class
+
+# Java archives and packaged output
+*.jar
+*.war
+*.ear
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db

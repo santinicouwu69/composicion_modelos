@@ -1,4 +1,8 @@
 ## Getting Started
+Proyecto de composición para la clase de Modelos de programación, semestre 2026-III Universidad Distrital Francisco José de Caldas. 
+Realizado por:
+Santiago Triana
+
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 

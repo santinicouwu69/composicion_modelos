@@ -1,7 +1,10 @@
 ## Getting Started
 Proyecto de composición para la clase de Modelos de programación, semestre 2026-III Universidad Distrital Francisco José de Caldas. 
 Realizado por:
-Santiago Triana
+Repaso de asociación Poo
+Mateo Enrique Urango Morales - 20241020117
+Cristian Esteban Castañeda Vargas - 20241020094 
+Santiago Nicolas Triana Mariño - 20241020115
 
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
